@@ -342,7 +342,7 @@
                                         }
 
                                                     .CT {
-                                                        font-size: 250%;
+                                                        font-size: 0%;
                                                         color: rgba(43, 43, 43, 0.84);
                                                         font-family: 'Rajdhani', sans-serif;
                                                         font-weight: 600;
@@ -352,7 +352,7 @@
                                                     }
 
                                                     .T {
-                                                        font-size: 150%;
+                                                        font-size: 100%;
                                                         color: rgba(43, 43, 43, 0.84);
                                                         font-family: 'Rajdhani', sans-serif;
                                                         font-weight: 600;
@@ -362,7 +362,7 @@
                                                     }
 
                                                     .L {
-                                                        font-size: 150%;
+                                                        font-size: 100%;
                                                         color: rgba(43, 43, 43, 0.84);
                                                         font-family: 'Rajdhani', sans-serif;
                                                         font-weight: 600;
@@ -371,7 +371,7 @@
                                         .Texte2 {
                                             background-color: rgba(9, 32, 66, 0.221);
                                             height: 900px;
-                                            width: 700px;
+                                            width: 100%;
                                         }
 
                                                 #ATLAS {
@@ -395,16 +395,6 @@
                                 
 
 
-
-
-
-
-
-
-
-                            
-
-                            
                                             
 
                             
